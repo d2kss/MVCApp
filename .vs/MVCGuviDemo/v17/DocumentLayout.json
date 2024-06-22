@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\repository\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\repository\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\repository\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\repository\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\repository\\interfaces\\iproductcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\repository\\interfaces\\iproductcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\data\\mvcguvidemocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\data\\mvcguvidemocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\migrations\\20240306061648_addingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\migrations\\20240306061648_addingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|c:\\users\\ashalatha\\downloads\\mvcguvidemo\\mvcguvidemo\\mvcguvidemo\\migrations\\20240306053837_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B72909A-20AB-418D-850F-4BE580FCABD0}|MVCGuviDemo\\MVCGuviDemo.csproj|solutionrelative:mvcguvidemo\\migrations\\20240306053837_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Repository\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Repository\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Repository\\ProductCategory.cs",
+              "RelativeToolTip": "MVCGuviDemo\\Repository\\ProductCategory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:20:28.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Repository\\Interfaces\\IProductCategory.cs",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Repository\\Interfaces\\IProductCategory.cs",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Repository\\Interfaces\\IProductCategory.cs",
+              "RelativeToolTip": "MVCGuviDemo\\Repository\\Interfaces\\IProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:18:46.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240306061648_addingproduct.cs",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Migrations\\20240306061648_addingproduct.cs",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Migrations\\20240306061648_addingproduct.cs",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Migrations\\20240306061648_addingproduct.cs",
+              "RelativeToolTip": "MVCGuviDemo\\Migrations\\20240306061648_addingproduct.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:16:48.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "MVCGuviDemo\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:52:56.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Repository\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Repository\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Repository\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "MVCGuviDemo\\Repository\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:50:21.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Repository\\Repository.cs",
+              "RelativeToolTip": "MVCGuviDemo\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:43:43.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Repository\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "MVCGuviDemo\\Repository\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:41:43.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MVCGuviDemo\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:36:55.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Program.cs",
+              "RelativeToolTip": "MVCGuviDemo\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:21:08.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\appsettings.json",
+              "RelativeToolTip": "MVCGuviDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T05:22:52.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCGuviDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:22:19.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCGuviDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T05:20:25.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MVCGuviDemoContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Data\\MVCGuviDemoContext.cs",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Data\\MVCGuviDemoContext.cs",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Data\\MVCGuviDemoContext.cs",
+              "RelativeToolTip": "MVCGuviDemo\\Data\\MVCGuviDemoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:37:07.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240306053837_initial.cs",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Migrations\\20240306053837_initial.cs",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Migrations\\20240306053837_initial.cs",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Migrations\\20240306053837_initial.cs",
+              "RelativeToolTip": "MVCGuviDemo\\Migrations\\20240306053837_initial.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:38:37.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Models\\Category.cs",
+              "RelativeToolTip": "MVCGuviDemo\\Models\\Category.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:35:17.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MVCGuviDemo\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T05:20:55.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MVCGuviDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASHALATHA\\Downloads\\MVCGuviDemo\\MVCGuviDemo\\MVCGuviDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MVCGuviDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T05:20:44.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
